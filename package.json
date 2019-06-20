@@ -1,0 +1,11 @@
+{
+  "name": "RocketseatES6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "acantarin <andrecantarin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/preset-env": "^7.4.5"
+  }
+}
